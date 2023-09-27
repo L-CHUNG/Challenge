@@ -1,2 +1,2 @@
 # Challenge
-This website is the 
+This website was used during the 10-day challenge
